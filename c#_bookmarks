@@ -1,0 +1,1570 @@
+{
+   "checksum": "beadce67926dcbdea6b531d4bd2817ea",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13084640919077007",
+            "guid": "1b63cb3d-15ee-40d0-99f3-196c5c30a56a",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13213872700735728"
+            },
+            "name": "[Solved] Read Excel values using Javascript - CodeProject",
+            "type": "url",
+            "url": "http://www.codeproject.com/Questions/85672/Read-Excel-values-using-Javascript"
+         }, {
+            "date_added": "13086289442494206",
+            "guid": "002d07b3-8968-46bf-bc72-e438cac23572",
+            "id": "13",
+            "meta_info": {
+               "last_visited_desktop": "13216112340140953"
+            },
+            "name": "iconsetplump-by-zerode_ icons - Download 82 free & premium icons on Iconfinder",
+            "type": "url",
+            "url": "https://www.iconfinder.com/iconsets/plump-by-zerode_"
+         }, {
+            "date_added": "13120920603912937",
+            "guid": "774edd4f-d4d5-430e-b8ab-e297182bfffb",
+            "id": "15",
+            "meta_info": {
+               "last_visited_desktop": "13195302067251223"
+            },
+            "name": "IST to GMT Converter - Convert India Time to Greenwich Time - World Time Buddy",
+            "type": "url",
+            "url": "http://www.worldtimebuddy.com/ist-to-gmt-converter"
+         }, {
+            "date_added": "13141467765953231",
+            "guid": "a3dc1c23-25ec-4239-b3ed-cc0989a54a68",
+            "id": "17",
+            "name": "Read MAPI properties not exposed in Outlook's Object Model",
+            "type": "url",
+            "url": "http://www.slipstick.com/developer/read-mapi-properties-exposed-outlooks-object-model/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13134227514798127",
+                  "guid": "e1305525-c2a3-46c8-a0a3-9f76bc81e542",
+                  "id": "23",
+                  "name": "5 Examples of Microsoft Access Date Functions",
+                  "type": "url",
+                  "url": "https://www.pluralsight.com/blog/it-ops/microsoft-access-date-functions"
+               }, {
+                  "date_added": "13117903217154063",
+                  "guid": "585e9841-40f7-400f-86fe-f1b9d891ca93",
+                  "id": "24",
+                  "name": "Audit Trail using Data Macros  ScottGem's space",
+                  "type": "url",
+                  "url": "https://scottgem.wordpress.com/2012/10/18/audit-trail-using-data-macros-2/"
+               }, {
+                  "date_added": "13060869650467944",
+                  "guid": "205e5010-662e-4b9a-abe8-2809360b2f3f",
+                  "id": "25",
+                  "name": "Data Strategies - Downloads",
+                  "type": "url",
+                  "url": "http://www.datastrat.com/DataStrat2.html"
+               }, {
+                  "date_added": "13139661292693020",
+                  "guid": "7c67b1a3-f352-43f0-9721-464acb37cd00",
+                  "id": "26",
+                  "name": "Date-Time Doing WorkDay Math in VBA",
+                  "type": "url",
+                  "url": "http://access.mvps.org/access/datetime/date0012.htm"
+               }, {
+                  "date_added": "13060191656027080",
+                  "guid": "c6dd1d92-f81b-4e47-8733-35775ca24be0",
+                  "id": "27",
+                  "name": "Free Access Tools  BTAB Development",
+                  "type": "url",
+                  "url": "http://www.btabdevelopment.com/free-access-tools/"
+               }, {
+                  "date_added": "13117262517998322",
+                  "guid": "211ce6a2-c5ba-4d2b-a7ab-9108215dc577",
+                  "id": "28",
+                  "name": "How to get single records when duplicate records exist in a table",
+                  "type": "url",
+                  "url": "http://www.geeksengine.com/article/get-single-record-from-duplicates.html"
+               }, {
+                  "date_added": "13059831489982286",
+                  "guid": "71dcb458-ad0b-476f-b55b-1ee60219d215",
+                  "id": "29",
+                  "name": "MS Access 2010 How to startup with a blank main window - Stack Overflow",
+                  "type": "url",
+                  "url": "http://stackoverflow.com/questions/3872649/ms-access-2010-how-to-startup-with-a-blank-main-window"
+               }, {
+                  "date_added": "13117008542087717",
+                  "guid": "c24b0b7a-2d13-4b62-84c9-59791121c894",
+                  "id": "30",
+                  "name": "Microsoft Access tips Crosstab query tips",
+                  "type": "url",
+                  "url": "http://allenbrowne.com/ser-67.html"
+               }, {
+                  "date_added": "13116946060536472",
+                  "guid": "14a5f97f-4fb1-4b7a-a247-cc95054b11dc",
+                  "id": "31",
+                  "name": "Microsoft Access tips Subquery basics",
+                  "type": "url",
+                  "url": "http://www.allenbrowne.com/subquery-01.html#TopN"
+               }, {
+                  "date_added": "13118416587549467",
+                  "guid": "d6b712d6-f18c-485d-94b5-bdcf27f3b86f",
+                  "id": "32",
+                  "meta_info": {
+                     "last_visited_desktop": "13202392868570272"
+                  },
+                  "name": "Microsoft HTA Tutorial Advanced - Tabular Data Control",
+                  "type": "url",
+                  "url": "https://www.599cd.com/tips/hta/advanced/tabulardatacontrol/"
+               }, {
+                  "date_added": "13059666864049689",
+                  "guid": "845c229b-fa40-4f45-98f4-f53a77629d08",
+                  "id": "33",
+                  "name": "Split an Access database",
+                  "type": "url",
+                  "url": "https://support.office.com/en-us/article/Split-an-Access-database-3015ad18-a3a1-4e9c-a7f3-51b1d73498cc"
+               }, {
+                  "date_added": "13118500648241832",
+                  "guid": "7cdced48-6c9a-44f6-9822-0ee541eabf5d",
+                  "id": "34",
+                  "name": "Tabular Data Control and JavaScript",
+                  "type": "url",
+                  "url": "http://www.javascriptkit.com/javatutors/tdc3.shtml"
+               }, {
+                  "date_added": "13126883520301140",
+                  "guid": "58e94ffd-cc37-43cd-8f2f-7135cc1053b6",
+                  "id": "35",
+                  "name": "The Access Web - General Index of Articles",
+                  "type": "url",
+                  "url": "http://access.mvps.org/access/general/index.html"
+               }, {
+                  "date_added": "13143807756480737",
+                  "guid": "a69026eb-d9f8-4a53-8125-a033c757b020",
+                  "id": "36",
+                  "name": "Things I've Learned Multiple LEFT JOINs in MS Access",
+                  "type": "url",
+                  "url": "http://nm1m.blogspot.com/2007/10/multiple-left-joins-in-ms-access.html"
+               }, {
+                  "date_added": "13060285669072354",
+                  "guid": "104430bc-1fec-4ab1-a027-5170e67c51de",
+                  "id": "37",
+                  "name": "VBA to refresh links between Access front and backend files",
+                  "type": "url",
+                  "url": "http://mikeperris.com/access/relinking-front-and-backend-database-access-vba-howto.html"
+               }, {
+                  "date_added": "13128616138075727",
+                  "guid": "1f0c173b-05d3-49b5-a293-dc8b2da99c76",
+                  "id": "38",
+                  "name": "VBScript - Working With Date Values  TestComplete Documentation",
+                  "type": "url",
+                  "url": "https://support.smartbear.com/testcomplete/docs/scripting/working-with/dates/vbscript.html#CurrentDate"
+               }, {
+                  "date_added": "13060269968304489",
+                  "guid": "91238bbe-8c49-4aac-a685-d3c21d3e78ba",
+                  "id": "39",
+                  "name": "Visual Basic  Database SQL Stuff code examples",
+                  "type": "url",
+                  "url": "http://www.visualbasic.happycodings.com/database-sql-stuff/index.html"
+               }, {
+                  "date_added": "13117021895605703",
+                  "guid": "2722ec3f-2f4c-41c7-a6ad-d8a5d97d8df2",
+                  "id": "40",
+                  "name": "ewbi.develops Access SQL TRANSFORM Statement",
+                  "type": "url",
+                  "url": "http://ewbi.blogs.com/develops/2005/01/access_sql_tran.html"
+               }, {
+                  "date_added": "13124454521267553",
+                  "guid": "f7c4a346-e794-4db6-a3d2-37c2e0daab44",
+                  "id": "41",
+                  "name": "microsoft access - Equivalent of Excel's NETWORKDAYS function with Jet ADO - Super User",
+                  "type": "url",
+                  "url": "http://superuser.com/questions/35716/equivalent-of-excels-networkdays-function-with-jet-ado"
+               } ],
+               "date_added": "13191061738861186",
+               "date_modified": "0",
+               "guid": "ba9b65ac-30ee-4e68-bf4d-fc47e9194d3e",
+               "id": "22",
+               "name": "ACCESS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13054149736533632",
+                  "guid": "f89cd718-f6d8-4afa-9edb-84348b4be307",
+                  "id": "43",
+                  "name": "How to create an ODBC Connection to MDM  UBS Connections",
+                  "type": "url",
+                  "url": "https://connections.swissbank.com/docs/DOC-21083"
+               }, {
+                  "date_added": "13044378493805951",
+                  "guid": "770d36ea-7cb5-4615-9791-58309a929308",
+                  "id": "44",
+                  "meta_info": {
+                     "last_visited_desktop": "13202300872538121"
+                  },
+                  "name": "UBS Market Data Team Collaboration",
+                  "type": "url",
+                  "url": "https://connections.swissbank.com/groups/ubs-market-data-team-collaboration"
+               }, {
+                  "date_added": "13117025525978438",
+                  "guid": "d7659e5d-c02c-4e4f-9b54-cbf31914e892",
+                  "id": "45",
+                  "name": "faq How to enable Service Request reporting wi...  UBS Connections",
+                  "type": "url",
+                  "url": "https://connections.swissbank.com/docs/DOC-15239"
+               }, {
+                  "date_added": "13049994567938413",
+                  "guid": "80ea681e-1952-45c5-a9e1-0d438df2bf9a",
+                  "id": "46",
+                  "name": "group ITSM  UBS Connections",
+                  "type": "url",
+                  "url": "https://connections.swissbank.com/groups/itsm"
+               }, {
+                  "date_added": "13049994586217241",
+                  "guid": "28ba2d84-33f6-4c01-852f-97b3addbf673",
+                  "id": "47",
+                  "name": "group SRM  UBS Connections",
+                  "type": "url",
+                  "url": "https://connections.swissbank.com/groups/srm"
+               } ],
+               "date_added": "13191061738862098",
+               "date_modified": "0",
+               "guid": "80471d60-9e39-4e74-834e-a62023c4cb46",
+               "id": "42",
+               "name": "Connections",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13041425232656304",
+                  "guid": "538a400c-dc2e-4286-8516-b196d3b43f9c",
+                  "id": "49",
+                  "meta_info": {
+                     "last_visited_desktop": "13216897888416262"
+                  },
+                  "name": "DACS - APAC",
+                  "type": "url",
+                  "url": "http://sng-dacswebp1.swissbank.com:8080/dacs/reports.html"
+               }, {
+                  "date_added": "13047055083692124",
+                  "guid": "4a82024b-ca02-43d1-8479-130321fd9524",
+                  "id": "50",
+                  "meta_info": {
+                     "last_visited_desktop": "13216624227033268"
+                  },
+                  "name": "DACS - CHICAGO DEVS",
+                  "type": "url",
+                  "url": "http://xstm6200dmd.stm.swissbank.com:8080/dacs/reports.html"
+               }, {
+                  "date_added": "13041439949799527",
+                  "guid": "222dcc93-ce4f-4b09-98f8-978e12564743",
+                  "id": "51",
+                  "meta_info": {
+                     "last_visited_desktop": "13216897896470199"
+                  },
+                  "name": "DACS - London",
+                  "type": "url",
+                  "url": "http://ldn-dacswebp1.swissbank.com:8080/dacs/reports.html"
+               }, {
+                  "date_added": "13041425211696209",
+                  "guid": "2f3cda2f-010d-4986-848b-b4ce8d0e4a9b",
+                  "id": "52",
+                  "meta_info": {
+                     "last_visited_desktop": "13217236556566583"
+                  },
+                  "name": "DACS - OPF",
+                  "type": "url",
+                  "url": "http://opf-dacswebp1.swissbank.com:8080/dacs/reports.html"
+               }, {
+                  "date_added": "13112703067919948",
+                  "guid": "6f7773ad-29c3-4123-a1a3-9a5aed455bb1",
+                  "id": "53",
+                  "name": "DACS - USA PROD",
+                  "type": "url",
+                  "url": "http://usa-dacswebp1.swissbank.com:8080/dacs/"
+               } ],
+               "date_added": "13191061738862284",
+               "date_modified": "0",
+               "guid": "f11ed80e-8a8d-46c0-b16f-60012b7843bb",
+               "id": "48",
+               "name": "DACS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13066485052307411",
+                  "guid": "a6a3e2c1-ccaf-4a2a-b064-b35855a8d3d5",
+                  "id": "55",
+                  "name": "EVALUATOR LOGINS",
+                  "type": "url",
+                  "url": "https://teams.cc.cnet.ubs.net/sites/mdsitihome/DACSGlobalWorkingGroup/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2fsites%2fmdsitihome%2fDACSGlobalWorkingGroup%2fShared%20Documents%2fDACS%20Qual%20Check%20Evaluator%20Logins&FolderCTID=&View=%7b4F04778D%2d3DC7%2d4412%2d9B74%2dDF0BAFB1C948%7d"
+               } ],
+               "date_added": "13191061738862525",
+               "date_modified": "0",
+               "guid": "5ac7f45c-5eae-41a7-b64e-b3454338962c",
+               "id": "54",
+               "name": "DACS QUAL CHECK",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13053181269839925",
+                  "guid": "9acb2ed1-08e1-45ab-8029-08e8f06aa0e8",
+                  "id": "57",
+                  "name": "$$Excel-Macros$$ extract distribution list members to excel",
+                  "type": "url",
+                  "url": "https://www.mail-archive.com/excel-macros@googlegroups.com/msg04271.html"
+               }, {
+                  "date_added": "13052419193591856",
+                  "guid": "2434088e-888f-491e-9343-5d1ff03a2aa7",
+                  "id": "58",
+                  "name": "2014 May  Excel & VBA – Databison",
+                  "type": "url",
+                  "url": "http://www.databison.com/2014/05/"
+               }, {
+                  "date_added": "13049998999406516",
+                  "guid": "a698e885-3600-4482-b0e1-720e8c027871",
+                  "id": "59",
+                  "name": "Automate Microsoft Outlook from Excel, using VBA",
+                  "type": "url",
+                  "url": "http://www.globaliconnect.com/excel/index.php?option=com_content&view=article&id=165:automate-microsoft-outlook-from-excel-using-vba&catid=79&Itemid=475"
+               }, {
+                  "date_added": "13050675830274288",
+                  "guid": "326d3c35-30b1-4490-98a9-194de48985ca",
+                  "id": "60",
+                  "name": "Color Palette and the 56 Excel ColorIndex Colors",
+                  "type": "url",
+                  "url": "http://dmcritchie.mvps.org/excel/colors.htm"
+               }, {
+                  "date_added": "13158422298973075",
+                  "guid": "27537ca7-6539-45fb-b516-767e5dc6e1fc",
+                  "id": "61",
+                  "name": "Count Date Values of Current Month - MS Excel - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/14747689/count-date-values-of-current-month-ms-excel"
+               }, {
+                  "date_added": "13158168947788119",
+                  "guid": "f3d95c59-238b-4cbc-bc9c-3817b47b8f1e",
+                  "id": "62",
+                  "name": "Create a new workbook for all unique values",
+                  "type": "url",
+                  "url": "https://www.rondebruin.nl/win/s3/win006_3.htm"
+               }, {
+                  "date_added": "13158422654060075",
+                  "guid": "c7a340b9-62aa-47de-afb1-7d84816c0222",
+                  "id": "63",
+                  "name": "Creating a top 10 using formulas - Excel off the grid",
+                  "type": "url",
+                  "url": "https://exceloffthegrid.com/creating-a-top-10-using-formulas/"
+               }, {
+                  "date_added": "13157641905628361",
+                  "guid": "18d2c421-a0b4-4549-80f3-ba145fa8ff8f",
+                  "id": "64",
+                  "name": "EXCEL Export",
+                  "type": "url",
+                  "url": "http://www.accessmvp.com/KDSnell/EXCEL_Export.htm#ExpRange"
+               }, {
+                  "date_added": "13050431952115955",
+                  "guid": "bbac96f1-c0df-454d-8219-e1029078905c",
+                  "id": "65",
+                  "name": "Excel Function Bible",
+                  "type": "url",
+                  "url": "http://www.rondebruin.nl/efb/efb.htm"
+               }, {
+                  "date_added": "13157796072208329",
+                  "guid": "b23be8ee-ad95-43e3-9586-9e94ffe1162d",
+                  "id": "66",
+                  "name": "Excel formula Count unique text values in a range  Exceljet",
+                  "type": "url",
+                  "url": "https://exceljet.net/formula/count-unique-text-values-in-a-range"
+               }, {
+                  "date_added": "13052847854440267",
+                  "guid": "612c5463-fd1c-465f-9fda-88d85221628a",
+                  "id": "67",
+                  "name": "Excel match nth occurrence",
+                  "type": "url",
+                  "url": "http://www.eluminary.org/en/QnA/Excel_match_nth_occurrence_(Excel)"
+               }, {
+                  "date_added": "13056036856258333",
+                  "guid": "7d20566a-0b5e-491b-9009-8f90d4d9d150",
+                  "id": "68",
+                  "name": "Extract data from the Global Address book with VBA",
+                  "type": "url",
+                  "url": "http://social.msdn.microsoft.com/Forums/office/en-US/183a9b77-7f5a-4afc-91e6-fbe2914c5f78/extract-data-from-the-global-address-book-with-vba?forum=outlookdev"
+               }, {
+                  "date_added": "13053181282964925",
+                  "guid": "f7eca280-fedb-4e49-afe1-b55e58755f07",
+                  "id": "69",
+                  "name": "Extract distribution list members to Excel - JP Software Technologies",
+                  "type": "url",
+                  "url": "http://www.jpsoftwaretech.com/extract-distribution-list-members-to-excel/"
+               }, {
+                  "date_added": "13161351262745047",
+                  "guid": "2c3a487e-5f11-4080-931c-6ee169b9fa40",
+                  "id": "70",
+                  "name": "Index of -CodeExamplePages",
+                  "type": "url",
+                  "url": "http://www.logicwurks.com/CodeExamplePages/"
+               }, {
+                  "date_added": "13158227012582487",
+                  "guid": "a72f1e29-eb67-4162-85c7-c2c071566f67",
+                  "id": "71",
+                  "name": "Index of -win",
+                  "type": "url",
+                  "url": "https://www.rondebruin.nl/win/"
+               }, {
+                  "date_added": "13082129724633050",
+                  "guid": "f6bc275b-961e-4cbe-bdc7-bfbd45dd17a0",
+                  "id": "72",
+                  "name": "Merging Data from Multiple Workbooks into a Summary Workbook in Excel 2010",
+                  "type": "url",
+                  "url": "https://msdn.microsoft.com/en-us/library/office/gg549168(v=office.14).aspx"
+               }, {
+                  "date_added": "13056035109827708",
+                  "guid": "e656adbe-f285-415d-beeb-a0425e3301c3",
+                  "id": "73",
+                  "name": "Microsoft Office 365 Community",
+                  "type": "url",
+                  "url": "http://community.office365.com/en-us/f/148/t/71857.aspx"
+               }, {
+                  "date_added": "13063308195347296",
+                  "guid": "2836bf92-6c4a-4678-bd4e-d7b2e3ddb2a2",
+                  "id": "74",
+                  "name": "Programming In The VBA Editor",
+                  "type": "url",
+                  "url": "http://www.cpearson.com/excel/vbe.aspx"
+               }, {
+                  "date_added": "13160063077308506",
+                  "guid": "7941da61-3f40-41f5-ad85-fab55508893c",
+                  "id": "75",
+                  "name": "Retrieve The Dimensions Of A Shape In PowerPoint — The Spreadsheet Guru",
+                  "type": "url",
+                  "url": "https://www.thespreadsheetguru.com/the-code-vault/2014/2/20/retrieve-the-dimensions-of-a-shape-in-powerpoint"
+               }, {
+                  "date_added": "13107969420010430",
+                  "guid": "3cd2dbef-c54e-4043-b188-b0c434dae426",
+                  "id": "76",
+                  "name": "SpecialCells Method. Select Specific Cell Types Excel VBA",
+                  "type": "url",
+                  "url": "http://www.ozgrid.com/VBA/special-cells.htm"
+               }, {
+                  "date_added": "13051296346544639",
+                  "guid": "9b347e88-1ade-4e3c-97b5-1893c254b2df",
+                  "id": "77",
+                  "name": "Storing User Input in a Variable  Understanding Program Variables in VBA  Que",
+                  "type": "url",
+                  "url": "http://www.quepublishing.com/articles/article.aspx?p=712186&seqNum=6"
+               }, {
+                  "date_added": "13160061770453506",
+                  "guid": "3766d51c-e85a-45ee-8468-8646647a93a9",
+                  "id": "78",
+                  "name": "Using Excel with Other Office Applications",
+                  "type": "url",
+                  "url": "https://peltiertech.com/Excel/XL_PPT.html"
+               }, {
+                  "date_added": "13052508301046259",
+                  "guid": "6e234462-9706-4640-816d-12401f704a0e",
+                  "id": "79",
+                  "name": "VBA Visual Basic for Applications (Microsoft) - MS Outlook -.Restrict on ReceivedDate - Cannot Parse Condition..",
+                  "type": "url",
+                  "url": "http://www.tek-tips.com/viewthread.cfm?qid=1679406"
+               }, {
+                  "date_added": "13143798626984799",
+                  "guid": "36db2e2f-4bcb-4aea-8ef0-94b82e59a2c3",
+                  "id": "80",
+                  "name": "Warn Before Sending Messages to the Wrong Email Address",
+                  "type": "url",
+                  "url": "https://www.slipstick.com/how-to-outlook/prevent-sending-messages-to-wrong-email-address/"
+               }, {
+                  "date_added": "13056031259369066",
+                  "guid": "f47e3755-4e4a-40d4-9045-4e8fcd95e987",
+                  "id": "81",
+                  "name": "Working with VBA and non-default Outlook Folders - Slipstick Systems",
+                  "type": "url",
+                  "url": "http://www.slipstick.com/developer/working-vba-nondefault-outlook-folders/"
+               }, {
+                  "date_added": "13051887606532702",
+                  "guid": "5c678d01-85e0-4685-b1c2-7d41673a286c",
+                  "id": "82",
+                  "name": "http--www.get-digital-help.com-2009-04-14-create-a-unique-alphabetically-sorted-list-extracted-from-a-column-",
+                  "type": "url",
+                  "url": "http://www.get-digital-help.com/2009/04/14/create-a-unique-alphabetically-sorted-list-extracted-from-a-column/#unique"
+               }, {
+                  "date_added": "13161346030633888",
+                  "guid": "4428a43f-9dd1-4c5a-83e4-61b569acbb41",
+                  "id": "83",
+                  "name": "performance - How to optimize vlookup for high search count  (alternatives to VLOOKUP) - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/18656808/how-to-optimize-vlookup-for-high-search-count-alternatives-to-vlookup"
+               }, {
+                  "date_added": "13118502738049791",
+                  "guid": "a38702c6-73ce-4c53-9a4e-a039d8dbd55f",
+                  "id": "84",
+                  "name": "solved split a 100000 line csv into 5000 line csv files with DOS batch  Tech Support Guy",
+                  "type": "url",
+                  "url": "https://forums.techguy.org/threads/solved-split-a-100000-line-csv-into-5000-line-csv-files-with-dos-batch.1023949/"
+               }, {
+                  "date_added": "13157800229592759",
+                  "guid": "47c8dd46-50ef-466b-8f92-fc6e4938f5ba",
+                  "id": "85",
+                  "meta_info": {
+                     "last_visited_desktop": "13196250959956058"
+                  },
+                  "name": "vba - Count unique values in Excel - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/1676068/count-unique-values-in-excel"
+               } ],
+               "date_added": "13191061738862644",
+               "date_modified": "0",
+               "guid": "fe77c45a-4adf-4cd0-8ee2-5862ad9a4193",
+               "id": "56",
+               "name": "EXCEL",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13060360057889459",
+                  "guid": "9919e06e-7108-4737-ab84-295984ea68ce",
+                  "id": "87",
+                  "name": "FIA Certification flashcards  Quizlet",
+                  "type": "url",
+                  "url": "http://quizlet.com/45688935/fia-certification-flash-cards/"
+               } ],
+               "date_added": "13191061738864161",
+               "date_modified": "0",
+               "guid": "8cd5a418-2904-4d61-9962-f034270f5f57",
+               "id": "86",
+               "name": "FISD",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13110651544158664",
+                  "guid": "7c9fa650-ac31-4bd2-a2fc-cca528acb60a",
+                  "id": "89",
+                  "name": "Dynamic Icons    Infographics    Google Developers",
+                  "type": "url",
+                  "url": "https://developers.google.com/chart/infographics/docs/dynamic_icons"
+               }, {
+                  "date_added": "13110651779838230",
+                  "guid": "38be1dfc-eb2e-4fd7-babb-a2aaba26b759",
+                  "id": "90",
+                  "name": "Easy Graphs with Google Chart Tools",
+                  "type": "url",
+                  "url": "http://code.tutsplus.com/tutorials/easy-graphs-with-google-chart-tools--net-11771"
+               }, {
+                  "date_added": "13110651691141361",
+                  "guid": "f42d2585-6253-48ed-b3d4-59851d1908f9",
+                  "id": "91",
+                  "name": "Google Chart Generator",
+                  "type": "url",
+                  "url": "http://www.jonwinstanley.com/charts/"
+               } ],
+               "date_added": "13191061738864205",
+               "date_modified": "0",
+               "guid": "77139f83-9bb0-4e4b-9bd7-66750244f97c",
+               "id": "88",
+               "name": "GOOGLE-CHARTS",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13161436759961029",
+                  "guid": "ca3ec6a8-dddb-492b-bec9-128a321646a3",
+                  "id": "93",
+                  "name": "Automate the Web - create web automation bots with Excel & VBA",
+                  "type": "url",
+                  "url": "http://automatetheweb.net/"
+               }, {
+                  "date_added": "13117281617819113",
+                  "guid": "68bd5fc4-6bac-4763-bdf0-f8a153d4b7f3",
+                  "id": "94",
+                  "name": "RGB to Hex Color Converter  HTML RGB Converter",
+                  "type": "url",
+                  "url": "https://www.easycalculation.com/colorconverter/rgb-coder.php"
+               } ],
+               "date_added": "13191061738865125",
+               "date_modified": "0",
+               "guid": "a0b45931-f1c2-4078-a368-95e3dd1fc2bb",
+               "id": "92",
+               "name": "HTML",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13041602350627710",
+                  "guid": "beb6c167-96d7-4603-96ac-074522510c84",
+                  "id": "96",
+                  "name": "Home - DACS Global Working Group",
+                  "type": "url",
+                  "url": "https://teams.cc.cnet.ubs.net/sites/mdsitihome/DACSGlobalWorkingGroup/default.aspx"
+               }, {
+                  "date_added": "13057919701129005",
+                  "guid": "8841f467-424d-4c3e-9bec-a3d3a0117fd4",
+                  "id": "97",
+                  "name": "Home - ISC MDS Admistration",
+                  "type": "url",
+                  "url": "https://teams.cc.cnet.ubs.net/sites/ISCMDS/default.aspx"
+               }, {
+                  "date_added": "13041602377279710",
+                  "guid": "3cdc1695-bc11-49fa-a07f-aa176053016e",
+                  "id": "98",
+                  "name": "Home - Thomson Reuters DATA notification and Quarterly Letters",
+                  "type": "url",
+                  "url": "https://teams.cc.cnet.ubs.net/sites/mds%20minutes/Thomson%20Reuters%20DATA/default.aspx"
+               }, {
+                  "children": [ {
+                     "date_added": "13058552100408801",
+                     "guid": "e52df8bd-ecdb-4095-9127-2bde147c04d4",
+                     "id": "100",
+                     "name": "Capture the screen  JavaWorld",
+                     "type": "url",
+                     "url": "http://www.javaworld.com/article/2071755/learn-java/capture-the-screen.html"
+                  } ],
+                  "date_added": "13191061738865375",
+                  "date_modified": "0",
+                  "guid": "6380b35d-fe6a-4c2c-8ac0-b69979677918",
+                  "id": "99",
+                  "name": "JAVA",
+                  "type": "folder"
+               }, {
+                  "date_added": "13052416381322856",
+                  "guid": "ddff22e9-48c3-4937-941c-d9bc00b324f1",
+                  "id": "101",
+                  "name": "MDS Docs",
+                  "type": "url",
+                  "url": "https://teams.cc.cnet.ubs.net/sites/iti%20mds%20product%20management/Process%20Documentation/Forms/AllItems.aspx?View=%7b45D22AE2%2dF844%2d423A%2dB6A1%2d0F52FCCE1CCB%7d"
+               }, {
+                  "date_added": "13043238590515435",
+                  "guid": "af36abd7-740a-4a87-8a13-c3cae3f40749",
+                  "id": "102",
+                  "name": "Process Documentation",
+                  "type": "url",
+                  "url": "https://teams.cc.cnet.ubs.net/sites/iti%20mds%20product%20management/Process%20Documentation/Forms/AllItems.aspx?RootFolder=/sites/iti%20mds%20product%20management/Process%20Documentation/Business%20Admin/Released%20Process&FolderCTID=&View=%7b45D22AE2-F844-423A-B6A1-0F52FCCE1CCB%7d"
+               }, {
+                  "date_added": "13077902895584388",
+                  "guid": "f77e052f-b6a5-4f60-9047-5479ec2f1042",
+                  "id": "103",
+                  "name": "Quarterly Notifications",
+                  "type": "url",
+                  "url": "https://teams.cc.cnet.ubs.net/sites/mds%20minutes/Thomson%20Reuters%20DATA/Shared%20Documents/Forms/AllItems.aspx"
+               }, {
+                  "date_added": "13058010745072764",
+                  "guid": "65deaf48-7712-4f54-b98f-d0e557044f81",
+                  "id": "104",
+                  "name": "Thomson Reuters Eikon Help",
+                  "type": "url",
+                  "url": "https://customers.extranet.thomsonreuters.biz/aaa/rph/plink/sliver.aspx?topic=RData&lang=en-US"
+               } ],
+               "date_added": "13191061738865207",
+               "date_modified": "0",
+               "guid": "8879f776-5142-47ec-b0e5-6df1cac8db3e",
+               "id": "95",
+               "name": "SharePoints",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13159976051650445",
+                  "guid": "c0999a9e-c8fe-4028-beaa-d8def045b840",
+                  "id": "106",
+                  "name": "VBScript - Extract Data from windows Event Log",
+                  "type": "url",
+                  "url": "https://social.technet.microsoft.com/Forums/scriptcenter/en-US/28c7d7bc-29da-485c-9ca0-b23f2d42205c/vbscript-extract-data-from-windows-event-log?forum=ITCG"
+               }, {
+                  "date_added": "13159977699790243",
+                  "guid": "0e219516-7fb4-4c50-964d-754e7333e140",
+                  "id": "107",
+                  "name": "Windows Security Log Encyclopedia",
+                  "type": "url",
+                  "url": "https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/"
+               }, {
+                  "date_added": "13215783527457192",
+                  "guid": "fb1f87e0-566c-4c37-8eac-06ad43304147",
+                  "id": "195",
+                  "meta_info": {
+                     "last_visited_desktop": "13215783527457359"
+                  },
+                  "name": "VBScript Scripting Techniques: Wildcards in Filespecs",
+                  "type": "url",
+                  "url": "https://www.robvanderwoude.com/vbstech_files_wildcards.php"
+               } ],
+               "date_added": "13191061738865705",
+               "date_modified": "13216129697332852",
+               "guid": "1813a788-6f99-4cb6-a32b-8a88a3e3d710",
+               "id": "105",
+               "name": "VBSCRIPT",
+               "type": "folder"
+            }, {
+               "date_added": "13116597055137076",
+               "guid": "7326153c-a255-4bfc-b9cb-b46b0aff47e1",
+               "id": "108",
+               "meta_info": {
+                  "last_visited_desktop": "13217135715914458"
+               },
+               "name": "01_MDM",
+               "type": "url",
+               "url": "https://ubs.mdsl.net/inventory.aspx"
+            }, {
+               "date_added": "13066404234117521",
+               "guid": "bf27346e-4b9c-4810-ac36-0e37d36fccc1",
+               "id": "109",
+               "name": "12 Useful HTML Applications and Tools for Developers  SkyTechGeek",
+               "type": "url",
+               "url": "http://skytechgeek.com/2012/08/html-applications-and-tools/"
+            }, {
+               "date_added": "13061378556438683",
+               "guid": "1c254abb-830c-4a95-8e29-aefb6b0282f9",
+               "id": "110",
+               "name": "3000XN",
+               "type": "url",
+               "url": "https://teams.cc.cnet.ubs.net/sites/mdsitihome/DACSGlobalWorkingGroup/default.aspx?RootFolder=%2fsites%2fmdsitihome%2fDACSGlobalWorkingGroup%2fShared%20Documents%2fWWI3000XN%20Cleanup%20for%20Apps&FolderCTID=&View=%7b2AFC9DE0%2d25B9%2d4B95%2dA2B4%2dE3DC8CD80307%7d"
+            }, {
+               "date_added": "13069865040634442",
+               "guid": "1b6f5074-2129-4b93-9b3a-92924426a741",
+               "id": "111",
+               "meta_info": {
+                  "last_visited_desktop": "13216826582396431"
+               },
+               "name": "AAA",
+               "type": "url",
+               "url": "https://apac1.admin.cp.thomsonreuters.com/cpac/"
+            }, {
+               "date_added": "13145034066213034",
+               "guid": "409a4f24-4369-415a-bb78-dfde5e349b25",
+               "id": "112",
+               "name": "Administration",
+               "type": "url",
+               "url": "http://app.pickmycart.com/index.php?s=7269661d36b14d379fde2369ee3f7415"
+            }, {
+               "date_added": "13044461675428460",
+               "guid": "a98b8828-76af-4a6f-823b-9bd278f44364",
+               "id": "113",
+               "meta_info": {
+                  "last_visited_desktop": "13216188118549899"
+               },
+               "name": "BBS",
+               "type": "url",
+               "url": "https://bw.bbs.ubs.ch/itauth/bbs/"
+            }, {
+               "date_added": "13149944937892792",
+               "guid": "2400feb6-5bca-4583-be59-83e857c1a91e",
+               "id": "114",
+               "name": "Best Web Designers,eCommerce Development Services,Website Maintenance, Kolkata",
+               "type": "url",
+               "url": "https://www.purpleno.in/"
+            }, {
+               "date_added": "13049990753263984",
+               "guid": "1f529719-021b-41cb-bd96-bd530e5bf980",
+               "id": "115",
+               "name": "Bloomberg Service Center",
+               "type": "url",
+               "url": "https://service.bloomberg.com/portal/sessions/new"
+            }, {
+               "date_added": "13042290847891589",
+               "guid": "6e8e89b2-fc2b-471a-908a-2c6c4883a015",
+               "id": "116",
+               "name": "CAD",
+               "type": "url",
+               "url": "http://applicationsurvey.swissbank.com/ApplicationSurvey/ApplicationSurveyUI.aspx?ID=358"
+            }, {
+               "date_added": "13041424610635108",
+               "guid": "f0e1be13-aab2-4470-be3f-fb4b51969040",
+               "id": "117",
+               "name": "CAZ - Login",
+               "type": "url",
+               "url": "https://customers.reuters.com/login/default.aspx?refer=http://customers.reuters.com%2fa%2fsupport%2fNotificationService%2fViewData%2easpx%3fid%3dDN%30%35%32%30%30%35"
+            }, {
+               "date_added": "13146842518519702",
+               "guid": "cb90a419-723f-45d9-904e-c98c1de063c9",
+               "id": "118",
+               "name": "Chris Fuller's Blog UBS - Useful Links UBS Connections",
+               "type": "url",
+               "url": "https://connections.swissbank.com/blogs/fuller/2012/07/05/ubs--useful-links"
+            }, {
+               "date_added": "13072877224837490",
+               "guid": "dac63d1b-bb58-4a12-8c90-299280a312be",
+               "id": "119",
+               "name": "Create Your Logo  Gallery",
+               "type": "url",
+               "url": "http://www.designmantic.com/logo-design/samples?page=2&cat=5"
+            }, {
+               "date_added": "13049994462817902",
+               "guid": "579b27c6-a9a3-41c1-accd-9e11f1ccdb16",
+               "id": "120",
+               "name": "DACS Global Working Group",
+               "type": "url",
+               "url": "https://teams.cc.cnet.ubs.net/sites/mdsitihome/DACSGlobalWorkingGroup/Shared%20Documents/Forms/AllItems.aspx"
+            }, {
+               "date_added": "13072268889972017",
+               "guid": "64a2a56a-d3dd-40c8-ba6e-f9318425872e",
+               "id": "121",
+               "name": "DACS MONTHLY OVERSIGHT",
+               "type": "url",
+               "url": "https://teams.cc.cnet.ubs.net/sites/mdsitihome/DACSGlobalWorkingGroup/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2fsites%2fmdsitihome%2fDACSGlobalWorkingGroup%2fShared%20Documents%2fMonthly%20Meeting%20Minutes%2fDacs%20Minutes&FolderCTID=&View=%7b4F04778D%2d3DC7%2d4412%2d9B74%2dDF0BAFB1C948%7d"
+            }, {
+               "date_added": "13060450212039953",
+               "guid": "c9396b14-188e-4b08-b1bd-2b48f1e66178",
+               "id": "122",
+               "name": "DACS OPF MORCS",
+               "type": "url",
+               "url": "http://xzur0506dmd.zur.swissbank.com:8080/dacs/reports.html"
+            }, {
+               "date_added": "13091534299942557",
+               "guid": "5a0f83c9-a510-48ce-a3e9-de1bda7ac1e3",
+               "id": "123",
+               "name": "DACS OVERSIGHT MEETING",
+               "type": "url",
+               "url": "https://teams.cc.cnet.ubs.net/sites/mdsitihome/DACSGlobalWorkingGroup/Shared%20Documents/Forms/AllItems.aspx?RootFolder=https%3a%2f%2fteams%2ecc%2ecnet%2eubs%2enet%2fsites%2fmdsitihome%2fDACSGlobalWorkingGroup%2fShared%20Documents%2fMonthly%20Meeting%20Minutes%2fDacs%20Minutes%2f2015%20minutes&FolderCTID=0x0120001AE14624A7A9C14CBA96AAB4DFCED5B9"
+            }, {
+               "date_added": "13043232801650435",
+               "guid": "b677368a-ef27-4a6b-9890-dd7fd8ad4ef9",
+               "id": "124",
+               "meta_info": {
+                  "last_visited_desktop": "13217050478176233"
+               },
+               "name": "DACS Product Code Lookup",
+               "type": "url",
+               "url": "https://customers.thomsonreuters.com/a/datasupport/dacscodelookup/pclookup.aspx"
+            }, {
+               "date_added": "13135766410897703",
+               "guid": "ed1a741d-6cb1-495d-8aa9-6f1703052cfb",
+               "id": "125",
+               "name": "DACS-7",
+               "type": "url",
+               "url": "http://xzur0370dmd.zur.swissbank.com:8080/dacs/"
+            }, {
+               "date_added": "13051899974598385",
+               "guid": "ff21a50f-5940-4ed8-96d8-99a6bfe7d7e6",
+               "id": "126",
+               "name": "DAM Presentation non-FGA",
+               "type": "url",
+               "url": "https://customers.thomsonreuters.com/developer/presentations/DT/DataNonFGA.htm"
+            }, {
+               "date_added": "13057174880690527",
+               "guid": "92b38602-ed50-4f34-96d8-890c0acb1f5c",
+               "id": "127",
+               "name": "De, Santosh - Outlook Web App",
+               "type": "url",
+               "url": "https://webmail-stamford.ubs.net/owa/"
+            }, {
+               "date_added": "13111245706429109",
+               "guid": "78aa9fb9-2869-4d65-89a6-dad858976f34",
+               "id": "128",
+               "name": "Edit, View XML Sitemap Online- xmlGrid.net",
+               "type": "url",
+               "url": "http://xmlgrid.net/sitemapView.html"
+            }, {
+               "date_added": "13073162507979108",
+               "guid": "e86f42d6-f25e-43c3-8389-1d244d9ec67a",
+               "id": "129",
+               "name": "EIKON WINDOW ISSUE",
+               "type": "url",
+               "url": "http://superuser.com/questions/377279/windows-7-cant-reopen-minimised-window-on-taskbar-preview-ok"
+            }, {
+               "date_added": "13065270906433512",
+               "guid": "913ad151-c94c-4287-afe4-d627206d60cf",
+               "id": "130",
+               "name": "Excel experiencing issues and dont know how to find it ( Repair by your self ) - Team GMTL Best Practice - Confluence",
+               "type": "url",
+               "url": "http://confluence.swissbank.com/display/GMTLteam/Excel+experiencing+issues+and+dont+know+how+to+find+it+%28+Repair+by+your+self+%29"
+            }, {
+               "date_added": "13110392146700003",
+               "guid": "7df4f63b-f57f-4f2f-8a61-c0f5f6894a00",
+               "id": "131",
+               "name": "excel last character-string match in a string - Stack Overflow",
+               "type": "url",
+               "url": "http://stackoverflow.com/questions/18617349/excel-last-character-string-match-in-a-string"
+            }, {
+               "date_added": "13058612668043715",
+               "guid": "52024fd7-b8f8-441e-927a-fb19fb1d0e65",
+               "id": "132",
+               "name": "Executive List",
+               "type": "url",
+               "url": "http://tes.swissbank.com/TES/vipdb/ppl_list.asp?site=&search=&tag=Exec#S"
+            }, {
+               "date_added": "13081454888839525",
+               "guid": "4ef06776-94a6-46d0-8d67-cce6e2c060b1",
+               "id": "133",
+               "name": "FACTSET",
+               "type": "url",
+               "url": "http://mdsoverlay.swissbank.com/configdata/factset/userfiles/"
+            }, {
+               "date_added": "13052400573657856",
+               "guid": "c3680bca-5f78-48d5-9ac6-3f2d07b272ee",
+               "id": "134",
+               "name": "Find the Distribution Lists a Contact Belongs to - Slipstick Systems",
+               "type": "url",
+               "url": "http://www.slipstick.com/outlook/contacts/find-the-distribution-lists-contact-groups-a-contact-belongs-to/"
+            }, {
+               "date_added": "13083326310061346",
+               "guid": "a792dc07-cf02-4d3b-a792-31aa4ba4f002",
+               "id": "135",
+               "name": "Finding and replacing characters using wildcards",
+               "type": "url",
+               "url": "http://word.mvps.org/faqs/general/usingwildcards.htm"
+            }, {
+               "date_added": "13056635678679859",
+               "guid": "567288f5-71c5-48ea-b449-7ba43ca9372e",
+               "id": "136",
+               "name": "Geneos Webslinger (http--usa-dacswebp1.swissbank.com8089)",
+               "type": "url",
+               "url": "http://usa-dacswebp1.swissbank.com:8089/ws_main.htm"
+            }, {
+               "date_added": "13045304936123935",
+               "guid": "e3ffcdf2-a731-4dea-8feb-b8a39b42957e",
+               "id": "137",
+               "name": "Home - DDS",
+               "type": "url",
+               "url": "https://teams.cc.cnet.ubs.net/sites/Middleware/DDS/default.aspx"
+            }, {
+               "date_added": "13179395344507180",
+               "guid": "c2ec0611-8a9c-4e38-85bc-e3a1277d7313",
+               "id": "138",
+               "name": "HR Global",
+               "type": "url",
+               "url": "https://bw.docweb.ubs.com/doc/livelink?func=ll&objId=17356922&objAction=browse&viewType=1"
+            }, {
+               "date_added": "13074622913057924",
+               "guid": "5aff123d-09bb-44ea-953d-69e94ec397ca",
+               "id": "139",
+               "name": "http--my.thomsonreuters.com-DACSImportTool",
+               "type": "url",
+               "url": "http://my.thomsonreuters.com/DACSImportTool"
+            }, {
+               "date_added": "13149245735328529",
+               "guid": "e8acee1a-09b7-44b6-a402-601e968c3268",
+               "id": "140",
+               "name": "http--usa-dacswebp1.swissbank.com8085-temp-NETAGENT-IDN_PERMISSION_pageMonitorOutFile.txt",
+               "type": "url",
+               "url": "http://usa-dacswebp1.swissbank.com:8085/temp/NETAGENT/IDN_PERMISSION_pageMonitorOutFile.txt"
+            }, {
+               "date_added": "13054041110371013",
+               "guid": "f335a758-b360-448e-82e1-e5070b952f39",
+               "id": "141",
+               "name": "http--xldn0663dmd.ldn.swissbank.com8000-report_weekly_summary.html",
+               "type": "url",
+               "url": "http://xldn0663dmd.ldn.swissbank.com:8000/report_weekly_summary.html"
+            }, {
+               "date_added": "13091641088789940",
+               "guid": "8ee8a079-6930-4a18-838a-9f323b5471ca",
+               "id": "142",
+               "name": "IDN_FREE",
+               "type": "url",
+               "url": "https://teams.cc.cnet.ubs.net/sites/mdsitihome/DACSGlobalWorkingGroup/default.aspx?RootFolder=%2fsites%2fmdsitihome%2fDACSGlobalWorkingGroup%2fShared%20Documents%2fRemediation%20Projects%20%2d%202015&FolderCTID=&View=%7b2AFC9DE0%2d25B9%2d4B95%2dA2B4%2dE3DC8CD80307%7d"
+            }, {
+               "date_added": "13042651363111354",
+               "guid": "7255ce60-c429-4c49-a47b-bba51646127f",
+               "id": "143",
+               "name": "IOPS Ordering",
+               "type": "url",
+               "url": "https://bw.iops.ubs.com/ordering/"
+            }, {
+               "date_added": "13060432721102016",
+               "guid": "86695fd4-101e-432b-afdd-1345c3fbdd85",
+               "id": "144",
+               "name": "i-SAC",
+               "type": "url",
+               "url": "https://bw.inventories.it.ubs.com/inventory/globalSearch.do?searchCategories.value=53&buttonSearch=Search&searchString=W01B5TZ9&formSubmitted=true&menuid=isac1X23A1000053&listboxCategoriesChanged="
+            }, {
+               "date_added": "13072185591680632",
+               "guid": "958e56b0-97c3-4565-bb40-f4c86d7f37d5",
+               "id": "145",
+               "name": "JIRA",
+               "type": "url",
+               "url": "http://jira-gtis.swissbank.com/browse/ISCBA"
+            }, {
+               "date_added": "13054752741919412",
+               "guid": "94b43536-5155-493a-a474-7c4cc1ce2f78",
+               "id": "146",
+               "name": "Line Manager Self Service",
+               "type": "url",
+               "url": "http://hrcmapps.swissbank.com/hrapps/hriops_sso/ops/page.jsp?PID=USER_LM_REPORTS_BASICS"
+            }, {
+               "date_added": "13102180438054059",
+               "guid": "b2e93882-aeed-4170-abe7-a56f95cdf82a",
+               "id": "147",
+               "name": "List of Service Request Tools  Assist",
+               "type": "url",
+               "url": "https://bw.assist.ubs.com/my-enquiries/links"
+            }, {
+               "date_added": "13168347793649739",
+               "guid": "32a1eee4-1d8b-4f27-812d-f2c99c38be3e",
+               "id": "148",
+               "name": "market data - Job Search",
+               "type": "url",
+               "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25008&ref=418200844953&siteid=5013&AReq=161783BR&Codes=PLCON#keyWordSearch=market%20data&locationSearch=&City=Pune"
+            }, {
+               "date_added": "13105637183534990",
+               "guid": "598bdcd5-9d70-4175-a91b-e539403a8ac9",
+               "id": "149",
+               "name": "mdm Templates, Policies, Guides",
+               "type": "url",
+               "url": "https://teams.cc.cnet.ubs.net/sites/mdsadmin/MDM%20Templates%20Policies%20Guides/Forms/AllItems.aspx?RootFolder=%2fsites%2fmdsadmin%2fMDM%20Templates%20Policies%20Guides%2fMDM%20Policies&FolderCTID=&View=%7b9A3DC472%2dD5A8%2d473A%2dB714%2dF3017897FAB2%7d"
+            }, {
+               "date_added": "13101399231196495",
+               "guid": "0b94d497-780d-4c33-af40-82cdc13828a5",
+               "id": "150",
+               "meta_info": {
+                  "last_visited_desktop": "13210846272946008"
+               },
+               "name": "MDS Administration",
+               "type": "url",
+               "url": "https://intranet.ubs.net/en/corporate-center/group-chief-operating-officer/group-technology/platform-services/platform-services-engineering/market-data-services/mds-administration.html"
+            }, {
+               "date_added": "13041423943007820",
+               "guid": "1df4d4ad-aabc-4a02-a280-c6dc547bc5f0",
+               "id": "151",
+               "meta_info": {
+                  "last_visited_desktop": "13217071610755874"
+               },
+               "name": "MDS Global DACS Web tool",
+               "type": "url",
+               "url": "http://usa-dacswebp1.swissbank.com:8085/dacswebtool.htm"
+            }, {
+               "date_added": "13050407497297432",
+               "guid": "01a8d602-2c61-46fb-b966-20dffc4847d3",
+               "id": "152",
+               "name": "MDS Infrastructure Engineering MDS Self-Servic...  UBS Connections",
+               "type": "url",
+               "url": "https://connections.swissbank.com/groups/mds-infrastructure-engineering/blog/2013/04/15/mds-self-service-content-checker"
+            }, {
+               "date_added": "13180440286209015",
+               "guid": "b28c8870-b951-4ab7-9a45-fb04034b3dcc",
+               "id": "153",
+               "meta_info": {
+                  "last_visited_desktop": "13210846305277661"
+               },
+               "name": "MDS",
+               "type": "url",
+               "url": "https://bw.docweb.ubs.com/doc/livelink?func=ll&objId=6760024&objAction=browse"
+            }, {
+               "date_added": "13041430564576867",
+               "guid": "90fe0f5d-9688-49bd-892f-a8d6753fca32",
+               "id": "154",
+               "meta_info": {
+                  "last_visited_desktop": "13214558812184337"
+               },
+               "name": "MDSL Help Desk",
+               "type": "url",
+               "url": "https://hd.mdsl.com/hd2/home.php?"
+            }, {
+               "date_added": "13041424120985616",
+               "guid": "e3c72327-8d6b-405b-b0b7-ef3e34117582",
+               "id": "155",
+               "meta_info": {
+                  "last_visited_desktop": "13214559595723300"
+               },
+               "name": "MDSL OnDemand Log In",
+               "type": "url",
+               "url": "https://secure.mdsl.com/"
+            }, {
+               "date_added": "13130578964275116",
+               "guid": "03b5235e-9b0b-464d-8304-17aa6c3dd63b",
+               "id": "156",
+               "name": "MDSL-All Pages",
+               "type": "url",
+               "url": "https://kb.mdsl.net/pages/allpages"
+            }, {
+               "date_added": "13075975355342352",
+               "guid": "cfc1b985-1574-4bca-bb88-39d5be694b2c",
+               "id": "157",
+               "name": "NEW HRI DATABASE",
+               "type": "url",
+               "url": "https://hcm-llfsn9xeal.oracleoutsourcing.com/hcmCore/faces/HcmFusionHome?fnd=%3B%3B%3B%3Bfalse%3B256%3B%3B%3B&_adf.no-new-window-redirect=true&_adf.ctrl-state=fox9h76f7_5&_afrLoop=352945724356933&_afrWindowMode=2&_afrWindowId=null"
+            }, {
+               "date_added": "13081957876874860",
+               "guid": "5b931280-e8d3-4f0b-8d53-c5492dbd6589",
+               "id": "158",
+               "meta_info": {
+                  "last_visited_desktop": "13214309245822258"
+               },
+               "name": "NEW TEST MDM",
+               "type": "url",
+               "url": "https://ubsuat.mdsl.net/default.aspx"
+            }, {
+               "date_added": "13075290973497475",
+               "guid": "ef742058-f05e-41e4-9f6d-5e6131802ae3",
+               "id": "159",
+               "name": "Oracle BI Publisher",
+               "type": "url",
+               "url": "https://bi-llfsn9xeal.oracleoutsourcing.com/xmlpserver/servlet/home"
+            }, {
+               "date_added": "13154001310551874",
+               "guid": "5038901e-821f-4e25-b62c-6a130ffbdf15",
+               "id": "160",
+               "meta_info": {
+                  "last_visited_desktop": "13215852548146582"
+               },
+               "name": "Outlook VBA Macros - VBOffice",
+               "type": "url",
+               "url": "http://www.vboffice.net/en/developers/"
+            }, {
+               "date_added": "13077800103184199",
+               "guid": "3b3aab0e-ac1c-47f1-bb5c-e9fd53f29961",
+               "id": "161",
+               "name": "Quarterly Notifications",
+               "type": "url",
+               "url": "https://customers.thomsonreuters.com/a/datasupport/qnotif/default.aspx"
+            }, {
+               "date_added": "13091792533102794",
+               "guid": "c33e7b50-136a-4724-9997-258f1c4821f4",
+               "id": "162",
+               "name": "RPM - WEBREPORTS",
+               "type": "url",
+               "url": "https://webreports.mdsl.com/ubs3/Reports/Crystal/default.aspx"
+            }, {
+               "date_added": "13043939863506302",
+               "guid": "9a154858-a428-457f-97fa-1958930f36fe",
+               "id": "163",
+               "name": "RPM",
+               "type": "url",
+               "url": "https://cloud.mdsl.com/UBS/default.aspx"
+            }, {
+               "date_added": "13082643169962240",
+               "guid": "8fbe1b36-0842-4ea6-8b53-0a86a91831c8",
+               "id": "164",
+               "name": "SiteCode  Main  TWiki",
+               "type": "url",
+               "url": "http://xldn7612dmd.ldn.swissbank.com:8000/mds/twiki/bin/view/Main/SiteCode"
+            }, {
+               "date_added": "13043499941954827",
+               "guid": "3d23e9a8-3225-4730-a721-e5db96c761a7",
+               "id": "165",
+               "name": "SNOW",
+               "type": "url",
+               "url": "https://snow.ubs.net/navpage.do"
+            }, {
+               "date_added": "13054752777829002",
+               "guid": "3deb741a-b991-4d48-b4f4-540ece4b9c62",
+               "id": "166",
+               "name": "Standard Reports Interface",
+               "type": "url",
+               "url": "https://hr-entry.ldn.swissbank.com/psp/LNGPP1/UBS_PORTAL/HRMS/c/UBS_STANDARD_REPORTS.UBS_RPTS_INTERFACE.GBL"
+            }, {
+               "date_added": "13068034268691221",
+               "guid": "9e5769c9-337d-4561-b498-feee5c04a9cd",
+               "id": "167",
+               "meta_info": {
+                  "last_visited_desktop": "13209123011145149"
+               },
+               "name": "TERMINATED USERS",
+               "type": "url",
+               "url": "https://teams.cc.cnet.ubs.net/sites/mdsitihome/DACSGlobalWorkingGroup/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2fsites%2fmdsitihome%2fDACSGlobalWorkingGroup%2fShared%20Documents%2fTerminated%20Users%20and%20Regional%20Mover%20File"
+            }, {
+               "date_added": "13069782560867588",
+               "guid": "85c3d229-7da5-4328-8adf-208203e1435b",
+               "id": "168",
+               "name": "TEST MDM",
+               "type": "url",
+               "url": "https://cloud.mdsl.com/UBSUAT/"
+            }, {
+               "date_added": "13111071513002926",
+               "guid": "845a6af7-9efe-482a-99e2-f6e828747fb2",
+               "id": "169",
+               "meta_info": {
+                  "last_visited_desktop": "13202292905704442"
+               },
+               "name": "Time Zones",
+               "type": "url",
+               "url": "http://everytimezone.com/#2016-6-22,990,cn3"
+            }, {
+               "date_added": "13049976838245621",
+               "guid": "1337045b-07c6-4381-8ea3-76c259894c21",
+               "id": "170",
+               "name": "UBS - User Database",
+               "type": "url",
+               "url": "https://wintelsupport/userDB/"
+            }, {
+               "date_added": "13041424004128931",
+               "guid": "47ab5a3d-121b-44ac-b65e-2960a00e8543",
+               "id": "171",
+               "name": "UBS HRi Search",
+               "type": "url",
+               "url": "http://hr-public.sputnik.loadb.ubs.net/psp/PUBLICVIEW/UBS_PORTAL/HRMS/c/UBS_PUB_VIEW_EMP.UBS_PUBVW_SRCH.GBL/?languageCd=ENG"
+            }, {
+               "date_added": "13165069565115519",
+               "guid": "01d00c1f-2a4c-40a0-87f1-e212c2891a79",
+               "id": "172",
+               "name": "ubsprod.msad.ubs.netUserDataDESANRFDesktopnew  2.html",
+               "type": "url",
+               "url": "file://ubsprod.msad.ubs.net/UserData/DESAN/RF/Desktop/new%20%202.html"
+            }, {
+               "date_added": "13059592042997866",
+               "guid": "5d206f63-b6c9-4c20-8753-ac7284b1402a",
+               "id": "173",
+               "name": "Using combo boxes in Access, Part 1 -- DataWright Information Services",
+               "type": "url",
+               "url": "http://www.datawright.com.au/access_resources/access_combo_boxes.htm"
+            }, {
+               "date_added": "13153584667857656",
+               "guid": "7486c6a0-9711-476d-ba4e-b8017f537b1f",
+               "id": "174",
+               "name": "Vlad Jiman's Blog ACE User Guide UBS Connections",
+               "type": "url",
+               "url": "https://connections.swissbank.com/blogs/aceapp/2017/03/02/ace-documentation"
+            }, {
+               "date_added": "13059139327102297",
+               "guid": "5407c3a7-cb56-411c-b712-5127599bdbe8",
+               "id": "175",
+               "name": "WAY",
+               "type": "url",
+               "url": "http://bw.way.ubs.com/"
+            }, {
+               "date_added": "13108831975432102",
+               "guid": "b969fdc6-4a1e-4014-a996-812a9d26a907",
+               "id": "176",
+               "name": "WEB-EIKON",
+               "type": "url",
+               "url": "https://apac1.apps.cp.thomsonreuters.com/web/Apps/Homepage/"
+            }, {
+               "date_added": "13050408051425839",
+               "guid": "7566c96f-846f-4428-bd42-4e75fb2c8071",
+               "id": "177",
+               "name": "WebHome  Main  TWiki",
+               "type": "url",
+               "url": "http://xldn0663dmd.ldn.swissbank.com:8000/mds/twiki/bin/view/Main/WebHome"
+            }, {
+               "date_added": "13116589244619102",
+               "guid": "ad333975-c61f-4965-ac87-e39277d783fc",
+               "id": "178",
+               "name": "Welcome to Tableau Desktop - Pivot Data (from Columns to Rows)",
+               "type": "url",
+               "url": "http://onlinehelp.tableau.com/v9.2/pro/online/windows/en-us/help.htm#pivot.html%3FTocPath%3DBuilding%2520Data%2520Views%7C_____7"
+            }, {
+               "date_added": "13133954520053522",
+               "guid": "4770ca40-84d0-4226-b524-659fd5130fb6",
+               "id": "179",
+               "meta_info": {
+                  "last_visited_desktop": "13195295977529694"
+               },
+               "name": "Who Is Who",
+               "type": "url",
+               "url": "https://bw.wiw.ubs.com/HWB/3/WhoIsWho/wiw.do?project=WIP&surname=&firstName=&language=en"
+            }, {
+               "date_added": "13152705526104679",
+               "guid": "004e5db9-9bd6-4dd1-83e7-a0d47a59bc75",
+               "id": "180",
+               "name": "WordPress Data Manager Archives - Wordpress Data Manager",
+               "type": "url",
+               "url": "http://dynamicplugin.com/category/wordpress-data-manager/"
+            }, {
+               "date_added": "13056223082502163",
+               "guid": "d8bf73ca-8332-4068-b47f-2fbdca8e6c71",
+               "id": "181",
+               "name": "World Clock",
+               "type": "url",
+               "url": "http://worldclock.swissbank.com/worldclock/"
+            } ],
+            "date_added": "13191061738860740",
+            "date_modified": "0",
+            "guid": "14df30eb-fbf8-4e13-880c-b979372897b6",
+            "id": "21",
+            "name": "Imported From IE",
+            "type": "folder"
+         }, {
+            "date_added": "13192721844370482",
+            "guid": "7300bd2c-d112-4778-88ba-3f0736f1658d",
+            "id": "183",
+            "meta_info": {
+               "last_visited_desktop": "13192721844370651"
+            },
+            "name": "Scheduling SSIS Package From SQL Server Agent Step by Step : Learn MSBI Tutorials",
+            "type": "url",
+            "url": "http://www.learnmsbitutorials.net/scheduling-ssis-package-from-sql-server-agent.php"
+         }, {
+            "date_added": "13214815294338714",
+            "guid": "40d2a5be-136c-44ee-915d-6f6b02d8547f",
+            "id": "188",
+            "meta_info": {
+               "last_visited_desktop": "13214901888678612"
+            },
+            "name": "MS Access | BestProg",
+            "type": "url",
+            "url": "https://www.bestprog.net/en/tag/ms-access/"
+         }, {
+            "date_added": "13215499298610136",
+            "guid": "32057c70-1107-4296-b398-78da531a13da",
+            "id": "190",
+            "meta_info": {
+               "last_visited_desktop": "13216191437413002"
+            },
+            "name": "Python for Data Science - Installation guide fo... |UBS Connections",
+            "type": "url",
+            "url": "https://connections.swissbank.com/docs/DOC-136559#comment-174004"
+         }, {
+            "children": [ {
+               "date_added": "13215527196440427",
+               "guid": "75d0b565-5d9f-4287-8200-e6187832745d",
+               "id": "192",
+               "meta_info": {
+                  "last_visited_desktop": "13215773872028671"
+               },
+               "name": "csv - edit corner case, check null in c# - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/53510728/edit-corner-case-check-null-in-c-sharp"
+            }, {
+               "date_added": "13215528073879552",
+               "guid": "19d28807-b5ac-4d39-92f7-f5ad8f5e9e68",
+               "id": "194",
+               "meta_info": {
+                  "last_visited_desktop": "13215604653677713"
+               },
+               "name": "How do I get the current username in .NET using C#? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/1240373/how-do-i-get-the-current-username-in-net-using-c"
+            }, {
+               "date_added": "13216129697332852",
+               "guid": "208c32a6-a69f-4e30-8d62-3155154a9faa",
+               "id": "196",
+               "meta_info": {
+                  "last_visited_desktop": "13216548740453872"
+               },
+               "name": "Add CheckBox to C# DataGridView",
+               "type": "url",
+               "url": "http://csharp.net-informations.com/datagridview/csharp-datagridview-checkbox.htm"
+            }, {
+               "date_added": "13216548797035557",
+               "guid": "4e325bb8-862b-44ad-9dca-092a419c0199",
+               "id": "198",
+               "meta_info": {
+                  "last_visited_desktop": "13217221220916424"
+               },
+               "name": "C# Tutorial , C# Help , C# Source Code",
+               "type": "url",
+               "url": "http://csharp.net-informations.com/"
+            }, {
+               "date_added": "13216549114998329",
+               "guid": "1021dcd2-a0d8-46b2-8411-73c154872a8a",
+               "id": "199",
+               "meta_info": {
+                  "last_visited_desktop": "13216549114998494"
+               },
+               "name": "How to Insert,Update,Delete and Select Data From SQL server using C#",
+               "type": "url",
+               "url": "http://www.simplylearnprogramming.com/insert-update-delete-select-data-sqlserver-csharp/41"
+            }, {
+               "date_added": "13216555553090907",
+               "guid": "1d32db70-10b3-47d5-a445-dd05b3458490",
+               "id": "200",
+               "meta_info": {
+                  "last_visited_desktop": "13216557490765804"
+               },
+               "name": "Clear all Textboxes in C# · GitHub",
+               "type": "url",
+               "url": "https://gist.github.com/rahuldass/028d2657ded7266c7893"
+            }, {
+               "date_added": "13216557485761504",
+               "guid": "e4056779-4d13-4f0b-8582-733ac2998db0",
+               "id": "201",
+               "meta_info": {
+                  "last_visited_desktop": "13216557485761712"
+               },
+               "name": ".net - How can I make all columns in a TableLayoutPanel autosize to exactly the same width? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/824012/how-can-i-make-all-columns-in-a-tablelayoutpanel-autosize-to-exactly-the-same-wi"
+            }, {
+               "date_added": "13216574536635416",
+               "guid": "99416ca6-e321-40af-998c-a5c2ab0698e8",
+               "id": "202",
+               "meta_info": {
+                  "last_visited_desktop": "13216574536635604"
+               },
+               "name": "Import CSV or txt File Into SQL Server Using Bulk Insert. - CodeProject",
+               "type": "url",
+               "url": "https://www.codeproject.com/Tips/775961/Import-CSV-or-txt-File-Into-SQL-Server-Using-Bulk"
+            }, {
+               "date_added": "13216576808317295",
+               "guid": "327469d7-6439-427c-b6bb-ca31fc8048a3",
+               "id": "203",
+               "meta_info": {
+                  "last_visited_desktop": "13216576808317479"
+               },
+               "name": "Splash Screen For Windows Forms Application C#",
+               "type": "url",
+               "url": "https://www.c-sharpcorner.com/UploadFile/1e050f/splash-screen-for-windows-form-application-C-Sharp/"
+            }, {
+               "date_added": "13216627399584387",
+               "guid": "cb7a0e16-4e14-4d31-aa20-bf974c8dcddf",
+               "id": "204",
+               "meta_info": {
+                  "last_visited_desktop": "13216633866237966"
+               },
+               "name": "how to use progressbar control in windows application using c#.net - ASP.NET,C#.NET,VB.NET,JQuery,JavaScript,Gridview",
+               "type": "url",
+               "url": "https://www.aspdotnet-suresh.com/2010/12/how-to-use-progressbar-control-in.html"
+            }, {
+               "date_added": "13216633970349059",
+               "guid": "2bf66963-7c6e-4db2-b053-11db8e4d4e31",
+               "id": "205",
+               "meta_info": {
+                  "last_visited_desktop": "13216633970349195"
+               },
+               "name": ".Gif viewer / Snipper Control - CodeProject",
+               "type": "url",
+               "url": "https://www.codeproject.com/Tips/1004624/Gif-viewer-Snipper-control"
+            }, {
+               "date_added": "13216635399057069",
+               "guid": "7634e373-dccc-422d-9728-26502bf6ddfe",
+               "id": "206",
+               "meta_info": {
+                  "last_visited_desktop": "13216729228308846"
+               },
+               "name": "How to write a loading circle animation in .NET? - CodeProject",
+               "type": "url",
+               "url": "https://www.codeproject.com/Articles/14841/How-to-write-a-loading-circle-animation-in-NET"
+            }, {
+               "date_added": "13216729810851892",
+               "guid": "76048b47-583d-43bf-932f-d6973a759b04",
+               "id": "207",
+               "meta_info": {
+                  "last_visited_desktop": "13216791019685651"
+               },
+               "name": "Connecting To Oracle Database Using C# Without Installing Oracle Client – Iron Automation",
+               "type": "url",
+               "url": "http://www.iron-automation.com/2018/02/connecting-to-oracle-database-without-installing-oracle-client/"
+            }, {
+               "date_added": "13216897015107391",
+               "guid": "15f27213-19ee-46f7-a613-b64e83acc576",
+               "id": "209",
+               "meta_info": {
+                  "last_visited_desktop": "13216897015107575"
+               },
+               "name": "c# - Oracle database table in gridview - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/21253463/oracle-database-table-in-gridview"
+            }, {
+               "date_added": "13216897576821008",
+               "guid": "8db104c8-6646-48a4-bbb7-02faee429161",
+               "id": "210",
+               "meta_info": {
+                  "last_visited_desktop": "13216897576821181"
+               },
+               "name": "Find All Tables In An Oracle Database By Column Name",
+               "type": "url",
+               "url": "https://www.thepolyglotdeveloper.com/2015/01/find-tables-oracle-database-column-name/"
+            }, {
+               "date_added": "13216987017246167",
+               "guid": "76320946-a0d1-4db1-9fc6-c14d4c8ce64d",
+               "id": "211",
+               "meta_info": {
+                  "last_visited_desktop": "13216987017246347"
+               },
+               "name": "Harness - Internet Explorer Automation - CodePlex Archive",
+               "type": "url",
+               "url": "https://archive.codeplex.com/?p=harness"
+            }, {
+               "date_added": "13217219941840504",
+               "guid": "018ebfd9-686e-40db-904e-8b062d69d439",
+               "id": "212",
+               "meta_info": {
+                  "last_visited_desktop": "13217219941840745"
+               },
+               "name": "How to split comma separated string and pass to IN clause of select statement | Oracle ADF Illusions Blog",
+               "type": "url",
+               "url": "https://blogs.oracle.com/aramamoo/how-to-split-comma-separated-string-and-pass-to-in-clause-of-select-statement"
+            }, {
+               "date_added": "13217235288907783",
+               "guid": "a2796095-d689-4820-85d9-2a9b175d4d6f",
+               "id": "213",
+               "meta_info": {
+                  "last_visited_desktop": "13217235288907989"
+               },
+               "name": "C# - How to Export Data from SQL Server Table or View to Text File in C Sharp",
+               "type": "url",
+               "url": "http://www.techbrothersit.com/2016/04/c-how-to-export-data-from-sql-server.html?m=1"
+            }, {
+               "date_added": "13217479765100734",
+               "guid": "635fbcd1-9abe-4369-8ef0-ca41ceb7a065",
+               "id": "215",
+               "name": "Combine CSV Files without Duplicating Headings using C# - Chris Koester",
+               "type": "url",
+               "url": "https://chris.koester.io/index.php/2017/01/27/combine-csv-files/"
+            }, {
+               "date_added": "13217738648494249",
+               "guid": "0bd8ca22-2aae-4c34-8567-6db518c1db3f",
+               "id": "217",
+               "name": "c# - Write Tab Delimited File - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/31201133/write-tab-delimited-file"
+            }, {
+               "date_added": "13218448496326037",
+               "guid": "8730635c-dbfa-48bd-b52b-3bbc30965c6a",
+               "id": "219",
+               "name": "[Solved] C# Task hanging entire application - CodeProject",
+               "type": "url",
+               "url": "https://www.codeproject.com/Questions/634315/Csharp-Task-hanging-entire-application"
+            }, {
+               "date_added": "13218980764113145",
+               "guid": "17f044ff-1854-4e62-8db1-d9d3e2141ad2",
+               "id": "223",
+               "name": "Reporting Progress from Tasks",
+               "type": "url",
+               "url": "https://blog.stephencleary.com/2010/06/reporting-progress-from-tasks.html"
+            }, {
+               "date_added": "13219235270288749",
+               "guid": "5540d450-45b6-44f2-9d2d-548ff1257832",
+               "id": "224",
+               "name": "Configuring Connection String in App.Config File During Runtime For a C# Windows Application",
+               "type": "url",
+               "url": "https://www.c-sharpcorner.com/UploadFile/1a81c5/configuring-connection-string-in-app-config-file-during-runt/"
+            }, {
+               "date_added": "13219477934519516",
+               "guid": "c0112a6c-4a92-4eca-97d0-f1b2ccd65ed9",
+               "id": "226",
+               "name": "C# Program to Read CSV File and Display Data in DataGridView – C# Programming Example",
+               "type": "url",
+               "url": "https://www.csharp-console-examples.com/winform/c-program-to-read-csv-file-and-display-data-in-datagridview/"
+            }, {
+               "date_added": "13219478005090852",
+               "guid": "eac37745-4dce-40c2-a25e-d227239a3240",
+               "id": "227",
+               "name": "ukushu/DataExporter",
+               "type": "url",
+               "url": "https://github.com/ukushu/DataExporter"
+            }, {
+               "date_added": "13219520796718862",
+               "guid": "8c508836-3fdc-4aa5-8366-151d557a3524",
+               "id": "228",
+               "name": "C# Convert DataSet to CSV - Doug Rathbone",
+               "type": "url",
+               "url": "https://dougrathbone.com/blog/2009/12/16/c-convert-dataset-to-csv"
+            } ],
+            "date_added": "13215527215802456",
+            "date_modified": "13220073085325157",
+            "guid": "ffea3c74-bae5-4d0b-8b25-166bd89506af",
+            "id": "193",
+            "name": "C#",
+            "type": "folder"
+         }, {
+            "date_added": "13218536890774947",
+            "guid": "256ddee9-1bf2-4d60-b01a-3e7f6a0caf62",
+            "id": "221",
+            "name": "Mail - De, Santosh - Outlook",
+            "type": "url",
+            "url": "https://outlook.office365.com/mail/inbox"
+         }, {
+            "date_added": "13220073085325157",
+            "guid": "28ed1b82-01a2-4d14-a797-a361948c97de",
+            "id": "230",
+            "name": "UBS AG - MDM Monthly Spend: MDM Monthly Spend Summary - Tableau Server",
+            "type": "url",
+            "url": "https://tableau.ubs.net/#/site/prd/views/UBSAG-MDMMonthlySpend/MDMMonthlySpendSummary?:iid=1"
+         } ],
+         "date_added": "13191060060358768",
+         "date_modified": "13220073090389792",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13191060060358941",
+         "date_modified": "13215783533665394",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13191060060358948",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
