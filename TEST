@@ -1,0 +1,1 @@
+    var resultResolved = resultOfAssigned.Where(a => a.Field<string>("Status") == "Closed").Count();
